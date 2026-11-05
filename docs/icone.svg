@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72" role="img" aria-label="Scan Limpo">
+  <rect x="18" y="18" width="72" height="72" rx="16" fill="#0B6E5B"/>
+  <path d="M28,38V33a5,5 0 0 1 5,-5H38M70,28H75a5,5 0 0 1 5,5V38M80,70V75a5,5 0 0 1 -5,5H70M38,80H33a5,5 0 0 1 -5,-5V70" fill="none" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42,36H60L69,45V69.5a2.5,2.5 0 0 1 -2.5,2.5H42a2.5,2.5 0 0 1 -2.5,-2.5V38.5A2.5,2.5 0 0 1 42,36Z" fill="#FFFFFF"/>
+  <path d="M60,36L69,45H62a2,2 0 0 1 -2,-2Z" fill="#BFE6DA"/>
+  <path d="M45,48H59M45,62H63M45,67H56" fill="none" stroke="#0B6E5B" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M33,55H75" fill="none" stroke="#FFB547" stroke-width="3" stroke-linecap="round"/>
+</svg>

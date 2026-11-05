@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scan Limpo</string>
+    <string name="share_target_label">Importar no Scan Limpo</string>
+    <string name="shortcut_scan">Escanear agora</string>
+</resources>

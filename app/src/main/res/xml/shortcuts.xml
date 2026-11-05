@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_scan"
+        android:shortcutId="scan"
+        android:shortcutShortLabel="@string/shortcut_scan">
+        <intent
+            android:action="br.com.scanlimpo.action.SCAN"
+            android:targetClass="br.com.scanlimpo.MainActivity"
+            android:targetPackage="br.com.scanlimpo" />
+    </shortcut>
+</shortcuts>

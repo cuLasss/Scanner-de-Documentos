@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cantos da moldura de escaneamento -->
+    <path
+        android:pathData="M28,38V33a5,5 0 0 1 5,-5H38M70,28H75a5,5 0 0 1 5,5V38M80,70V75a5,5 0 0 1 -5,5H70M38,80H33a5,5 0 0 1 -5,-5V70"
+        android:strokeWidth="3.4"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Folha -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,36H60L69,45V69.5a2.5,2.5 0 0 1 -2.5,2.5H42a2.5,2.5 0 0 1 -2.5,-2.5V38.5A2.5,2.5 0 0 1 42,36Z" />
+    <path
+        android:fillColor="#BFE6DA"
+        android:pathData="M60,36L69,45H62a2,2 0 0 1 -2,-2Z" />
+    <!-- Linhas de texto -->
+    <path
+        android:pathData="M45,48H59M45,62H63M45,67H56"
+        android:strokeWidth="2.2"
+        android:strokeColor="#0B6E5B"
+        android:strokeLineCap="round" />
+    <!-- Linha de leitura -->
+    <path
+        android:pathData="M33,55H75"
+        android:strokeWidth="3"
+        android:strokeColor="#FFB547"
+        android:strokeLineCap="round" />
+</vector>

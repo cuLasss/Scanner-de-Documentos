@@ -1,0 +1,17 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+*.iml
+.idea/
+captures/
+
+# Chave de assinatura: nunca versionar.
+keystore.properties
+keystore/
+*.jks
+*.keystore
+
+dist/
+*.apk
+*.aab
